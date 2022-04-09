@@ -5,13 +5,12 @@
 # App		Base system tool
 # Version:	0.1 / 0 2
 # Date:		05.10.2021
-# File:		webserver_base.sh
-# Copyright:	2010 innomedia AG
-# Author:       Ornella / 
+# File:		webserver_base.sh	
+# Author:       Ornella 
 
 # --------------------------------------------------------------------------------
 
-APP_TITLE='innomedia AG - Base system tool'
+APP_TITLE='Base system tool'
 
 # --------------------------------------------------------------------------------
 
